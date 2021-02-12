@@ -1,0 +1,72 @@
+<userlist>
+    <user>
+        <userid>usr01</userid>
+        <username>Tom</username>
+        <address>DSNR</address>
+        <phone>8801550101</phone>
+        <email>Gouse.sheikh@gmail.com</email>
+    </user>
+    <user>
+        <userid>usr02</userid>
+        <username>Mike</username>
+        <address>Ameerpet</address>
+        <phone>9888888888</phone>
+        <email>D Divakar@gmail.com</email>
+    </user>
+    <user>
+        <userid>usr03</userid>
+        <username>gibbs</username>
+        <address>SR Nagar</address>
+        <phone>9866666666</phone>
+        <email>Rajinth@yahoo.com</email>
+    </user>
+    <user>
+        <userid>usr04</userid>
+        <username>Abd</username>
+        <address>DESHMUKHI</address>
+        <phone>9835994445</phone>
+        <email>M Vijaya@yahoo.com</email>
+    </user>
+    <user>
+        <userid>usr05</userid>
+        <username>vicky</username>
+        <address>KOTI</address>
+        <phone>968877555</phone>
+        <email>Kusuma@yahoo.com</email>
+    </user>
+    <user>
+        <userid>usr06</userid>
+        <username>Vammy</username>
+        <address>KOTI</address>
+        <phone>968875554</phone>
+        <email>P Kalpana@yahoo.com</email>
+    </user>
+    <user>
+        <userid>usr07</userid>
+        <username>V Vamshi</username>
+        <address>KPHB</address>
+        <phone>968888554</phone>
+        <email>V Anitha@yahoo.com</email>
+    </user>
+    <user>
+        <userid>usr08</userid>
+        <username>S Venkat</username>
+        <address>IBP</address>
+        <phone>968878554</phone>
+        <email>M Ramesh@yahoo.com</email>
+    </user>
+    <user>
+        <userid>usr09</userid>
+        <username>E Murali</username>
+        <address>DSNGR</address>
+        <phone>968899554</phone>
+        <email>Raswitha@yahoo.com</email>
+    </user>
+    <user>
+        <userid>usr10</userid>
+        <username>Venkatesh</username>
+        <address>KPHB</address>
+        <phone>9088008554</phone>
+        <email>A Prasanna@yahoo.com</email>
+    </user>
+</userlist>

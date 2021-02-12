@@ -1,0 +1,49 @@
+<html>
+   <head>
+      <title>shopping cart</title>
+   </head>
+   <body bgcolor="lightGreen">
+      <center>
+         <h1>
+            Shopping Cart
+         </h1>
+      </center>
+      <br><br><br><br><br>
+      <table align="center">
+         <tr>
+            <td>Text Books</td>
+            <td>
+               <select>
+                  <optgroup label="select your Book">
+                     <option value="HTML">HTML
+                     <option value="CSS">CSS
+                     <option value="Java">Java
+                     <option value="Oracle">Oracle
+                     <option value="Ms SQL Server">Ms SQL Server
+                     <option value="MySql">MySql
+                  </optgroup>
+               </select>
+            </td>
+         </tr>
+         <tr>
+            <td>
+               Quantity
+            </td>
+            <td>
+               <input type="text" id="q">
+            </td>
+         </tr>
+         <tr>
+            <td></td>
+            <td>
+               <form method=post action="payment.html">
+                  <input type="submit" value="Proceed to Buy" />
+               </form>
+            </td>
+         </tr>
+      </table>
+      <center>
+         <pre>Cost of one book is : 500  +  shipping charges : 100</pre>
+      </center>
+      <body>
+</html>
